@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class ClassRoomBApplication
 
 fun main(args: Array<String>) {
-	runApplication<ClassRoomBApplication>(*args)
+
+    runApplication<ClassRoomBApplication>(*args)
 }
